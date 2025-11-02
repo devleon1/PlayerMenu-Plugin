@@ -1,0 +1,7 @@
+name: PlayerMenu
+version: '1.0-SNAPSHOT'
+main: gg.leon.playermenu.PlayerMenu
+api-version: '1.21'
+commands:
+  profile:
+    description: Öffnet dein Spieler Profil.
